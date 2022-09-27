@@ -1,0 +1,17 @@
+
+.navbar {
+    display: block;
+    text-align: center;
+    background-color: lightskyblue
+}
+
+#content-left {
+    margin-top: 50px;
+}
+
+#content-right {
+    margin-top: 50px;
+    padding-left: 30px;
+}
+
+
