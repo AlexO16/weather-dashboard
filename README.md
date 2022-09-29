@@ -10,8 +10,9 @@ This webpage is a weather data provider. When you search for a city the webpage 
 
 # Links
 * [Deployed webpage](https://alexo16.github.io/weather-dashboard/)
-* [Repositiry](https://github.com/AlexO16/weather-dashboard)
+* [Repository](https://github.com/AlexO16/weather-dashboard)
 
 # Credits
 * [University of Minnesota](https://courses.bootcampspot.com/courses/2176/assignments/38777?module_item_id=750391)
 * [Alex Oleynik](https://github.com/AlexO16)
+* [openweathermap](https://openweathermap.org/forecast5)
