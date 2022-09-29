@@ -7,3 +7,11 @@ This webpage is a weather data provider. When you search for a city the webpage 
 # Screenshot
 
 ![Screen Shot 2022-09-28 at 9 16 44 PM](https://user-images.githubusercontent.com/110851664/192927628-a8261420-4d55-4368-b916-a800f2949b5c.png)
+
+# Links
+
+* [Repositiry](https://github.com/AlexO16/weather-dashboard)
+
+# Credits
+* []()
+* []()
