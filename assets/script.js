@@ -30,7 +30,7 @@ function getApi(event) {
 //Dispay curent day weather 
 function showCurrWeather(data) {
   currWeather.innerHTML="";
-  var card = document.createElement("div.card");
+  var card = document.createElement("h2");
   var date = document.createElement("div");
   var image = document.createElement("img");
   var temp = document.createElement("div");
@@ -49,7 +49,7 @@ function showCurrWeather(data) {
 function showWeather(data) {
   fiveDayContainer.innerHTML="";
   for (var i = 7; i < data.list.length; i += 7) {
-    var card = document.createElement("div.");
+    var card = document.createElement("h3");
     var date = document.createElement("div");
     var image = document.createElement("img");
     var temp = document.createElement("div");

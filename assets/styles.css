@@ -14,4 +14,17 @@
     padding-left: 30px;
 }
 
+h2 {
+    border: solid black;
 
+}
+
+h3 {
+    width: 8rem;
+    font-size: small;
+    text-align: center;
+    justify-content: space-between;
+    background-color: lightskyblue;
+    border-style: solid black;
+    border-radius: 0.9rem;
+}
