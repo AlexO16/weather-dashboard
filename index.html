@@ -15,9 +15,9 @@
 </head>
 
 <body>
-    <nav class="navbar">
+    <header class="navbar">
         <span class="navbar-brand mb-0 h1">Weather Dashboard</span>
-    </nav>
+    </header>
 
     <div class="container">
         <div class="row">
@@ -27,14 +27,18 @@
                     <div class="form-row">
                         <input id="search-city" class="form-control" placeholder="Search"></input>
                         <input class="btn btn-primary" type="submit" value="Submit">
+
+                        <button id="clearBtn" type="button" class="btn btn-primary btn-sm">Clear list</button>
                     </div>
                 </form>
-                <ul id="previous-search" class="list-group list-group-flush"></ul>
-                <button id="clearBtn" type="button" class="btn btn-primary btn-sm">Clear list</button>
+                <div id="previous-search" class="list-group list-group-flush">
+
+                </div>
             </div>
+
             <div id="content-right" class="col-sm-9">
                 <div id="current-weather">Current Weather</div>
-                <div id="five-day-forcast" class="row">Five Day Forcast</div>
+                <div id="five-day-forcast" class="row">Five Day Forecast</div>
             </div>
         </div>
     </div>
