@@ -106,6 +106,7 @@ function renderSearch() {
 };
 
 previousSearch.addEventListener('click', function (event) {
+  cityInput.value = ""
   console.log('click', event.target.getAttribute("data-city"))
   getApi(event, event.target.getAttribute("data-city"))
 });
