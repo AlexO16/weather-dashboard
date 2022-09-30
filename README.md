@@ -6,7 +6,8 @@ This webpage is a weather data provider. When you search for a city the webpage 
 
 # Screenshot
 
-![Screen Shot 2022-09-28 at 9 16 44 PM](https://user-images.githubusercontent.com/110851664/192927628-a8261420-4d55-4368-b916-a800f2949b5c.png)
+![Screen Shot 2022-09-29 at 7 47 20 PM](https://user-images.githubusercontent.com/110851664/193166444-ffdaacce-18c2-4e15-a346-47f6adf1582f.png)
+
 
 # Links
 * [Deployed webpage](https://alexo16.github.io/weather-dashboard/)
