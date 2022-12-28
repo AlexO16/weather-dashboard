@@ -105,6 +105,7 @@ function renderSearch() {
   }
 };
 
+//Previous search
 previousSearch.addEventListener('click', function (event) {
   cityInput.value = ""
   console.log('click', event.target.getAttribute("data-city"))
