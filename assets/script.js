@@ -18,7 +18,7 @@ function getApi(event, previousCity) {
   citySearch.push(cityName)
   storeSearch()
   renderSearch()
-  var requestUrl = `http://api.openweathermap.org/data/2.5/forecast?q=${cityName}&units=imperial&appid=d73924e0fd4a0a8efda9fc43d20f1773`
+  var requestUrl = `https://api.openweathermap.org/data/2.5/forecast?q=${cityName}&units=imperial&appid=d73924e0fd4a0a8efda9fc43d20f1773`
 
   fetch(requestUrl)
     .then(function (response) {
